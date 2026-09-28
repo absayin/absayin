@@ -2,7 +2,7 @@
 - 👀 I’m interested in the effect of experience on machine translation post-editing (MTPE).
 - 🌱 I’m currently learning PyTorch and webcrawling.
 - 💞️ I’m looking to collaborate on corpus building.
-- 📫 How to reach me sayinab19@29mayis.edu.tr
+- 📫 How to reach me ayse.b.sayin@gmail.com
 
 <!---
 absayin/absayin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
